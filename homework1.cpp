@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <iostream>
-using namespace std;
+using namespace std; ////just wanna try this
 ///////////////It's "homework" from my c++ course
 /*
 I've should to create something like that:
