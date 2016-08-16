@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <iostream>
-
+using namespace std;
 ///////////////It's "homework" from my c++ course
 /*
 I've should to create something like that:
@@ -18,11 +18,11 @@ welp:
 
 int main()
 {
-	std::cout << "==============" << std::endl;
-	std::cout << "= To Proste! =" << std::endl;
-	std::cout << "==============" << std::endl;
+	cout << "==============" << endl;
+	cout << "= To Proste! =" << endl;
+	cout << "==============" << endl;
 	////lets check it (getting used with github and trying to work it)
 	printf( "\t A jak to zrobic? \n Koniec :)");
-	std::cout << std::endl;
+	cout << endl;
 return 0;
 }
